@@ -1,0 +1,15 @@
+{
+    "districts" : [
+        "AJMER", "ALWAR", "BHILWARA", "BIKANER", "BUNDI", "DAUSA", "JAIPUR", "JODHPUR", "KOTA", "SIKAR", 
+        "SIROHI", "TONK", "JALORE", "KOTA", "UDAIPUR", "BHARATPUR", "BIKANER", "BARAN", "BARMER", "CHURU", 
+        "DHOLPUR", "DUNGARPUR", "PALI", "PRATAPGARH", "SRI GANGANAGAR"
+    ],
+
+    "crops" : [
+        "Jowar", "Bajra", "Wheat", "Rice"
+    ],
+
+    "soils" : [
+        "chalky", "clay", "loamy", "sandy", "silty"
+    ]
+}
